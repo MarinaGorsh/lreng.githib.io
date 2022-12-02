@@ -1,0 +1,55 @@
+.dive{
+    position: relative;
+    margin-left: 30%;
+}
+.wrapper {
+    position: absolute;
+}
+.back {
+    position: absolute;
+    display: none;
+}
+.front{
+    position: absolute;
+}
+#ent{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: -464px;
+    font-size: x-large;
+    background-color: blueviolet;
+}
+#nex{
+    position: absolute;
+    margin-top: 400px;
+    margin-left: -203px;
+    font-size: x-large;
+    background-color: blueviolet;
+}
+#right{
+    position: absolute;
+    margin-top: -404px;
+    display: none;
+}
+#wrong{
+    position: absolute;
+    margin-top: -404px;
+    display: none;
+}
+#word{
+    position: absolute;
+    margin-top: 323px;
+    margin-left: -383px;
+}
+#points{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: -15px;
+    font-size: x-large;
+}
+#summ{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 605px;
+    font-size: x-large;
+}
